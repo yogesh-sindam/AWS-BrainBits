@@ -8,6 +8,7 @@ lets learn aws
 # topics
 aws vpc
 - [ ] vpc peering
+- gateways
 vpn
 gateways
 
